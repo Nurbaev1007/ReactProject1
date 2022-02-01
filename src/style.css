@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+.container {
+    width: 100%;
+    max-width: 1360px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.01);
+    border-radius: 8px;
+}
+a {
+    text-decoration: none;
+}
+
+body {
+    background: #E5E5E5;
+}
